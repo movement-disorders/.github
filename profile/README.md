@@ -1,6 +1,6 @@
 # A space for Open Source Software (OSS) projects on tackling the mix of Movement Disorders with Tech.
 
-Building a tech community by maintaining and building a technological backpack through transparent collaboration.
+Building a community by maintaining and building a tooling backpack through transparent collaboration.
 
 ## What this space IS NOT.
 **Not a medical space. Period.** No biological nor medical knowledge or advice will be provided here. This is **NOT a place to seek medical answers**, neither general nor specific, to any of the conditions or treatments under the umbrella of Movement Disorders.
