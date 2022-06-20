@@ -1,4 +1,4 @@
-# A space for Open Source Software (OSS) projects on Movement Disorders
+# A space for Open Source Software (OSS) projects on tackling the mix of Movement Disorders with Tech.
 
 Building a tech community by maintaining and building a technological backpack through transparent collaboration.
 
